@@ -10,6 +10,8 @@
 
 [490 - Rotating Sentences](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=431)
 
+[948 - Fibonaccimal Base](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=889)
+
 [10008 - What's Cryptanalysis?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=949)
 
 [10035 - Primary Arithmetic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=976)
