@@ -14,6 +14,8 @@
 
 :white_check_mark: [10008 - What's Cryptanalysis?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=949)
 
+:white_check_mark: [10019 - Funny Encryption Method](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=960)
+
 :white_check_mark: [10035 - Primary Arithmetic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=976)
 
 :white_check_mark: [10041 - Vito's Family](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=982)
