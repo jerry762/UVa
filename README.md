@@ -41,4 +41,3 @@
 :white_check_mark: [11827 - Maximum GCD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2927)
 
 :white_check_mark: [12592 - Slogan Learning of Princess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4270)
-
