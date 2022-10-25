@@ -18,6 +18,8 @@
 
 :white_check_mark: [10035 - Primary Arithmetic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=976)
 
+:white_check_mark: [10038 - Jolly Jumpers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979)
+
 :white_check_mark: [10041 - Vito's Family](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=982)
 
 :white_check_mark: [10055 - Hashmat the Brave Warrior](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=996)
