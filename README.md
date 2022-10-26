@@ -30,6 +30,8 @@
 
 :white_check_mark: [10057 - A mid-summer night's dream.](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=998)
 
+:white_check_mark: [10062 - Tell me the frequencies!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1003)
+
 :white_check_mark: [10101 - Bangla Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1042)
 
 :white_check_mark: [10190 - Divide, But Not Quite Conquer!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1131)
